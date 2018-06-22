@@ -1,3 +1,12 @@
+"""
+@file name: Constellation Finder
+@description:
+You can check your own and all of the 12 Zodiac signs in this program.
+@authors:
+Bingshu Li
+"""
+
+
 from tkinter import *
 from tkinter import ttk
 from datetime import date
