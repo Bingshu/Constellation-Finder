@@ -1,2 +1,3 @@
 # Constellation-Finder
-Just for fun. You can check your Zodiac sign from 12 constellations.
+You have two options here. First you can check all 12 Zodiac signs, dates, representations and related information. Second option is that you can search for your own Zodiac constellation based on your birthday.
+Please enjoy this and have some fun. (No need to believe what it says about the characteristics of your constellation)
